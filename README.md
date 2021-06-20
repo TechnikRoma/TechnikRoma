@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @m1ndkiller
+- 👋 Hi, I’m @TechnikRoma
 - 👀 I’m interested in 
 - 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me pomk@list.ru
+- 📫 How to reach me TechnikRoma@gmail.com
 
 <!---
 m1ndkiller/m1ndkiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
